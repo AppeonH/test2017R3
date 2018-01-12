@@ -1,0 +1,15 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "dce003_clicked.pbl" "";
+@end;
+@begin Objects 
+ "dce003_clicked.sra" "dce003_clicked.pbl";
+ "d_dce003w01_column.srd" "dce003_clicked.pbl";
+ "d_dce003w01_dept.srd" "dce003_clicked.pbl";
+ "d_dce003w01_other.srd" "dce003_clicked.pbl";
+ "m_main.srm" "dce003_clicked.pbl";
+ "n_cst_config.sru" "dce003_clicked.pbl";
+ "w_dce003w01_clickedcolumn.srw" "dce003_clicked.pbl";
+ "w_dce003w02_clickedother.srw" "dce003_clicked.pbl";
+ "w_mdi.srw" "dce003_clicked.pbl";
+@end;
