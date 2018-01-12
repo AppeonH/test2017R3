@@ -3,4 +3,5 @@
  "test.pbl" "";
 @end;
 @begin Objects 
+ "test.sra" "test.pbl";
 @end;
