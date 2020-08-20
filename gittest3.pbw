@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
  0 "dce003_clicked.pbt";
  1 "test.pbt";
 @end;
-DefaultTarget "test.pbt";
-DefaultRemoteTarget "test.pbt";
+DefaultTarget "dce003_clicked.pbt";
+DefaultRemoteTarget "dce003_clicked.pbt";
